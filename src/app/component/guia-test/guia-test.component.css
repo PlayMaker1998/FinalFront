@@ -1,9 +1,9 @@
-body {
+.rest {
   background-color: #cdfecc;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 93.25vh;
+  height: 89.5vh;
 }
 .announcement-container {
   background-color: #ffffff;
